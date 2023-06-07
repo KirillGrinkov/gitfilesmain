@@ -1,0 +1,15 @@
+/Users/prosto/Desktop/GitFiles/examples/example001/bin/Debug/net7.0/example001
+/Users/prosto/Desktop/GitFiles/examples/example001/bin/Debug/net7.0/example001.deps.json
+/Users/prosto/Desktop/GitFiles/examples/example001/bin/Debug/net7.0/example001.runtimeconfig.json
+/Users/prosto/Desktop/GitFiles/examples/example001/bin/Debug/net7.0/example001.dll
+/Users/prosto/Desktop/GitFiles/examples/example001/bin/Debug/net7.0/example001.pdb
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.csproj.AssemblyReference.cache
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.AssemblyInfoInputs.cache
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.AssemblyInfo.cs
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.csproj.CoreCompileInputs.cache
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.dll
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/refint/example001.dll
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.pdb
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/example001.genruntimeconfig.cache
+/Users/prosto/Desktop/GitFiles/examples/example001/obj/Debug/net7.0/ref/example001.dll
